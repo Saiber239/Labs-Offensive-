@@ -12,4 +12,6 @@ This repository documents a series of hands-on cybersecurity labs—four in tota
 3. [Lab 2: Service Banner Grabbing](#lab-2-service-banner-grabbing)  
 4. [Lab 3: Brute-Force Attack with Hydra](#lab-3-brute-force-attack-with-hydra)  
 5. [Lab 4: SQL Injection Exploitation](#lab-4-sql-injection-exploitation)  
-6. [Conclusions & Next Steps](#conclusions--next-steps)  
+6. [Conclusions & Next Steps](#conclusions--next-steps)
+
+Report file is Uploaded and can be viewed there.
